@@ -143,7 +143,7 @@ body {
 	position: relative;
 	width: 100%;
 	height: 100vh;
-	background: radial-gradient(#281c3e,#0f051d);
+	background: #000;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -173,7 +173,7 @@ body {
 }
 .box{
 	padding: 16px;
-	background: #1b1229;
+	background: #f9f9f9;
 	border-radius: 15px;
 	transition: all .38s ease;
 }
