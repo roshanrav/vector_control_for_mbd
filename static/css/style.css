@@ -40,13 +40,13 @@
 .box{
 	padding: 16px;
 	background: #1b1229;
-	border-radius: 15px;
+	border-radius: 30px;
 	transition: all .38s ease;
 }
 .box h3{
 	font-size: 23px;
 	font-weight: 600;
-	color: #fff;
+	color: #b7b4bb;
 	margin-bottom: 8px;
 }
 .box h5{
